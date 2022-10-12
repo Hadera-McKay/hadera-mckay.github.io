@@ -1,9 +1,9 @@
 
     body {
-    border-style: solid;
     background-color:navajowhite;
     }
 p.light {
+  border-style: solid;
   font-weight: lighter;
   color: darkseagreen
 }
@@ -14,6 +14,7 @@ p.light {
     color: green;
     }
 p.thick {
+  border-style: solid;
   font-weight: bold;
   background-color: paleturquoise;
   
