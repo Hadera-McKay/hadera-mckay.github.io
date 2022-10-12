@@ -1,0 +1,21 @@
+
+    body {
+    background-color:navajowhite;
+    }
+p.light {
+  font-weight: lighter;
+  color: darkseagreen
+}
+    h1 {
+    color: azure;
+    }
+    h2 {
+    color: green;
+    }
+p.thick {
+  font-weight: bold;
+  background-color: paleturquoise
+}
+
+p.thicker {
+  font-weight: 900;
