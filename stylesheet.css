@@ -1,9 +1,12 @@
 
     body {
+    border-style: solid;
+    border-color: navy; 
     background-color:navajowhite;
     }
 p.light {
   border-style: solid;
+  border-color: navy; 
   font-weight: lighter;
   color: darkseagreen
 }
