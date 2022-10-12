@@ -14,7 +14,8 @@ p.light {
     }
 p.thick {
   font-weight: bold;
-  background-color: paleturquoise
+  background-color: navajowhite
+  text-shadow 
 }
 
 p.thicker {
