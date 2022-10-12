@@ -1,5 +1,6 @@
 
     body {
+    border-style: solid;
     background-color:navajowhite;
     }
 p.light {
@@ -14,7 +15,8 @@ p.light {
     }
 p.thick {
   font-weight: bold;
-  background-color: navajowhite
+  background-color: paleturquoise;
+  
   
 }
 
