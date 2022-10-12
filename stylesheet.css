@@ -17,6 +17,7 @@ p.light {
     color: green;
     }
 p.thick {
+  text-shadow: 2px 2px #ff0000;
   border-style: solid;
   font-weight: bold;
   background-color: paleturquoise;
